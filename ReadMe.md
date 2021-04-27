@@ -10,9 +10,9 @@ Wenxuan Li, Ruichao Ma
 
 #### Project Architecture
 
-![flowchart](/Users/wenxuanli/Desktop/DSCI551/project/python_code/flowchart.png)
+![flowchart](/Users/wenxuanli/Desktop/DSCI551_project/DSCI551-project/img/flowchart.png)
 
-#### 
+
 
 #### Project Implementation
 
